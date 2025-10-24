@@ -1,0 +1,67 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100h;
+  flex-direction: column;
+}
+
+label {
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #530653;
+
+}
+
+input {
+  padding: 10px;
+  border-radius: 30px;
+  border: none;
+  width: 30%;
+  margin-bottom: 15px; 
+}
+
+body{
+  background-image: url(29302651-ai-generativo-show-etapa-cenario-com-holofotes-colori-luzes-fumaca-gratis-foto.jpg);
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* altura da tela */
+  width: 100vw;  /* largura da tela */
+  background-size: cover;      /* cobre toda a tela */
+  background-position: center; /* centraliza a imagem */
+  background-repeat: no-repeat;
+}
+
+h1{
+  .nome-boate 
+  font-family: 'Bebas Neue', sans-serif; 
+  font-size: 80px; 
+  color: #ff00ff;
+  text-align: center; 
+  text-shadow: 
+    2px 2px 5px #000,  
+    0 0 20px #ff00ff,   
+    0 0 40px #ff00ff;   
+  letter-spacing: 2px; 
+
+
+}
+
+h3{
+  color: #d87dd8;
+  font-size: 20px;
+  text-shadow: 5px 5px 10px #000,;
+}
+
+
+button{
+  color: #c996c9;
+  background-color: #530653;
+  border-radius: 30px;
+  height: 50px;
+  border: none;
+  font-weight: 2px;
+  font-size: 18px;
+   font-weight: bold;                
+  padding: 10px 20px;                
+  }
